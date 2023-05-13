@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @aayazakpinarli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-
-<!---
-aayazakpinarli/aayazakpinarli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ayşegül Akpınarlı.
+- 👀 I’m interested in Front-End & Game Development.
+- 🌱 I’m currently studying Computer Technology and Information Systems at Bilkent University. 
+- 🌱 I'm currently learning Front-End Development.
+- 💞️ I’m looking to collaborate on Web Development.
+- 📫 You can reach me via mail.
