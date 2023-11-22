@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayşegül Akpınarlı.
-- 👀 I’m interested in Front-End & Game Development.
+- 👀 I’m interested in Backend & Network.
 - 🌱 I’m currently studying Computer Technology and Information Systems at Bilkent University. 
-- 🌱 I'm currently learning Front-End Development.
-- 💞️ I’m looking to collaborate on Web Development.
+- 🌱 I'm currently learning Front-End Development & Network.
+- 💞️ I’m looking to collaborate on Backend Development & Network.
 - 📫 You can reach me via mail.
