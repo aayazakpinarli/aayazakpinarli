@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ayşegül Akpınarlı.
-- 👀 I’m interested in Backend & Network.
+- 👀 I’m interested in Network & DevOps.
 - 🌱 I’m currently studying Computer Technology and Information Systems at Bilkent University. 
 - 📫 You can reach me via mail.
